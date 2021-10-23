@@ -151,3 +151,5 @@ disableHugoGeneratorInject = false
     identifier = "Hackathons"
     name       = "Hackathons"
     url        = "hackathons/"
+
+staticDir = ['static']
