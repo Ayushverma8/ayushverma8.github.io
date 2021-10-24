@@ -2,7 +2,7 @@ baseURL = "http://iayush.xyz"
 title   = "Ayush Verma"
 languageCode = "en-us"
 theme = "hello-friend-ng"
-
+googleAnalytics ="UA-71756471-1"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
