@@ -1,3 +1,1 @@
-## Personal Portfolio
-
-[URL](https://iayush.xyz/)
+Hi there 👋
