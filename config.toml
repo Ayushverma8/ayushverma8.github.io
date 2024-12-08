@@ -1,7 +1,7 @@
 baseURL = "http://iayush.xyz"
 title   = "Ayush Verma"
 languageCode = "en-us"
-theme = "hello-friend-ng"
+theme = "hugo-theme-hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
@@ -9,8 +9,8 @@ paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
-# disqusShortname = ""
+googleAnalytics = "fdfdfdf"
+ disqusShortname = "ayush"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
