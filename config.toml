@@ -1,7 +1,7 @@
 baseURL = "http://iayush.xyz"
 title   = "Ayush Verma"
 languageCode = "en-us"
-theme = "hugo-theme-hello-friend-ng"
+name = "hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
