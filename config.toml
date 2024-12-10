@@ -3,6 +3,27 @@ title        = "Ayush Verma"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+# Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/ayushverma33"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:ayushverma8@outlook.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/Ayushverma8"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/ayushverma8/"
+
+  [[params.social]]
+    name = "stackoverflow"
+    url  = "https://stackoverflow.com/users/6086266/ayush-verma"
+
 
 [params]
   # Personalization
