@@ -1,35 +1,656 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Ayush Verma</title><link>http://localhost:1313/posts/</link><description>Recent content in Posts on Ayush Verma</description><generator>Hugo</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Automated benchmark tests over DigitalOcean and AWS LightSail</title><link>http://localhost:1313/posts/2019/10/automated-benchmark-tests-over-digitalocean-and-aws-lightsail/</link><pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/2019/10/automated-benchmark-tests-over-digitalocean-and-aws-lightsail/</guid><description>&lt;p>A comparison between DigitalOcean and AWS LightSail for Data Centers located in London.&lt;/p>
-&lt;p>A comparison between DigitalOcean and AWS LightSail for Data Centers located in London.&lt;/p>
-&lt;h3 id="vps-benchmarks">VPS benchmarks&lt;/h3>
-&lt;p>I did ran some standard benchmark tests over &lt;a href="https://www.digitalocean.com/">DO&lt;/a> and &lt;a href="https://lightsail.aws.amazon.com/ls/webapp/home">AWS&lt;/a> with bench.sh&lt;/p>
-&lt;p>So , here’s the Available stacks for deploying preconfigured stacks&lt;/p>
-&lt;p>AWS Lightsail is typically a EC2 Instance with Easier and less complicated GUI . They offer standalone plans and stacks mentioned below -&lt;/p></description></item><item><title>Ultimate guide to use Cloud Services</title><link>http://localhost:1313/posts/2019/04/ultimate-guide-to-use-cloud-services/</link><pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/2019/04/ultimate-guide-to-use-cloud-services/</guid><description>&lt;p>This guide will show you how to create a virtual server and deploy an app to it. We are using Digitalocean for PaaS.&lt;/p>
-&lt;p>&lt;strong>Ultimate guide&lt;/strong> to use Cloud Services&lt;/p>
-&lt;p>This guide will show you how to create a virtual server and deploy an app to it. We are using &lt;a href="https://www.digitalocean.com">Digitalocean&lt;/a> for PaaS.&lt;/p>
-&lt;p>&lt;img src="https://cdn-images-1.medium.com/max/800/0*GVMtCxq5Q6S62syt.png">&lt;/p>
-&lt;h4 id="okay-why-i-am-writing-this-tldr-guide">&lt;strong>Okay Why I am writing this TL,DR Guide ?&lt;/strong>&lt;/h4>
-&lt;p>The goal of this guide is to introduce you to the concept of provisioning a virtual server. In the world of cloud computing, you’ll likely deploy applications to various providers such as Heroku, Amazon Web Services, Google Cloud, Microsoft Azure, Rackspace, … and more. Understanding how to do this on your own is incredibly important. This is meant to be an_introductory_ guide; it only notes where you should implement a more secure best practice — you’ll see them next. This all ToDo’s are based on Experience . After this guide you shall be able to spin your first server and host a sweet portfolio. Cool .. eh ?&lt;/p></description></item><item><title>Why Chatbots?</title><link>http://localhost:1313/posts/2018/12/why-chatbots/</link><pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/2018/12/why-chatbots/</guid><description>&lt;p>Chatbots have recently become quite popular. They are being used by businesses to provide proactive assistance to their customers. They…&lt;/p>
-&lt;p>Chatbots have recently become quite popular. They are being used by businesses to provide proactive assistance to their customers. They have grown and improved to capitalize on social media and messenger platforms. Most people haven’t openly identified the true potential of chatbots, so this article is designed to act as a guide to build chatbots on &lt;a href="http://www.engati.com">Engati&lt;/a> Platform.&lt;/p></description></item><item><title>How about using Postman REST Client !</title><link>http://localhost:1313/posts/2018/06/how-about-using-postman-rest-client/</link><pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/2018/06/how-about-using-postman-rest-client/</guid><description>&lt;p>You can Even make a collection and see the health of API Calls. I think this will be the best way to monitor Status of our API.&lt;/p>
-&lt;p>How about using Postman REST Client !&lt;/p>
-&lt;p>You can Even make a collection and see the health of API Calls. I think this will be the best way to monitor Status of our API.&lt;/p>
-&lt;p>By &lt;a href="https://medium.com/@Ayushverma8">Ayush Verma&lt;/a> on &lt;a href="https://medium.com/p/c6db4642eccf">February 22, 2018&lt;/a>.&lt;/p>
-&lt;p>&lt;a href="https://medium.com/@Ayushverma8/how-about-using-postman-rest-client-c6db4642eccf">Canonical link&lt;/a>&lt;/p>
-&lt;p>Exported from &lt;a href="https://medium.com">Medium&lt;/a> on July 6, 2019.&lt;/p></description></item><item><title>Apache Kafka | Introduction</title><link>http://localhost:1313/posts/2018/04/apache-kafka-introduction/</link><pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/2018/04/apache-kafka-introduction/</guid><description>&lt;p>Apache Kafka is a publish-subscribe messaging system.A messaging system let you send messages between processes, applications, and…&lt;/p>
-&lt;p>Apache Kafka is a publish-subscribe messaging system.A messaging system let you send messages between processes, applications, and servers.Broadly Speakng, Apache Kafka is a software where topics (A topic might be a category) can be defined and further processed . Applications may connect to this system and transfer a message onto the topic. A message can include any kind of information ,from any event on your Personal blog or can be a very simple text message that would trigger any other event.&lt;/p></description></item><item><title>How Does Instagram Stories Rank Viewers in a Particular Order?</title><link>http://localhost:1313/posts/2018/03/how-does-instagram-stories-rank-viewers-in-a-particular-order/</link><pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/2018/03/how-does-instagram-stories-rank-viewers-in-a-particular-order/</guid><description>&lt;p>So you must have used Snapchat and Instagram stories, but ever wondered why some viewers are always on top no matter what chronological…&lt;/p>
-&lt;p>So you must have used Snapchat and Instagram stories, but ever wondered why some viewers are always on top no matter what chronological order they saw the story?!&lt;/p>
-&lt;p>&lt;img alt="Instagram Story\u00a0Preview" src="https://cdn-images-1.medium.com/max/800/1*bWuZWYWTMnJjPp1qqM3ziw.jpeg">
-Instagram Story Preview&lt;/p>
-&lt;h4 id="alright-lets-try-to-demystify">Alright. Let’s try to demystify!&lt;/h4>
-&lt;p>With Instagram’s stories, the algorithm is the editor; it scans all public images and videos posted using &lt;strong>hashtags&lt;/strong> and &lt;strong>locations&lt;/strong>, decides which images and videos to highlight for each specific hashtag and location, and picks the order they play in.&lt;/p></description></item><item><title>Supercharged Unit Testing of Alexa skills with Postman and Newman</title><link>http://localhost:1313/posts/2018/03/supercharged-unit-testing-of-alexa-skills-with-postman-and-newman/</link><pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/2018/03/supercharged-unit-testing-of-alexa-skills-with-postman-and-newman/</guid><description>&lt;p>Testing Alexa Skill with Postman supersedes the basic testing service provided by the Amazon Developer Portal and Tools.&lt;/p>
-&lt;p>Lately Amazon has been working on improving the developer experience for its Alexa intelligent personal assistant. Part of this strategy Skill Management API,provides the ability to test multi-turn…&lt;/p>
-&lt;p>&lt;img src="https://cdn-images-1.medium.com/max/800/1*9cVPQ8azohAoaMvopR-ESw.png">&lt;/p>
-&lt;p>Lately Amazon has been working on improving the developer experience for its Alexa intelligent personal assistant. Part of this strategy Skill Management &lt;a href="https://hackernoon.com/tagged/api">API&lt;/a>,provides the ability to test multi-turn conversation, entity resolution, dialog management, and more features that are not supported by existing test tools.&lt;/p></description></item><item><title>Data Stats SRM University — All Branches</title><link>http://localhost:1313/posts/2017/09/data-stats-srm-university-all-branches/</link><pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/2017/09/data-stats-srm-university-all-branches/</guid><description>&lt;p>I wrote some crawlers for Facebook , LinkedIn , Resume Websites and crawled some relatable data for Batch 2014–2018 and Batch 2015–2019 …&lt;/p>
-&lt;p>I wrote some crawlers for Facebook , LinkedIn , Resume Websites and crawled some relatable data for &lt;strong>Batch 2014–2018 and Batch 2015–2019&lt;/strong> . Here’s some of the Analysis Insights. This are just for experimental purpose.&lt;/p>
-&lt;ol>
-&lt;li>&lt;strong>A1 +ve&lt;/strong> blood group people are actually born as topper and are too frequent in Topper list. Majority of them were from &lt;strong>CBSE Board&lt;/strong>.&lt;/li>
-&lt;/ol>
-&lt;p>&lt;img src="https://cdn-images-1.medium.com/max/800/1*FYO2812M0V1CDnEEWTeCtQ.png">&lt;/p></description></item><item><title>What Exactly happens when you press the power button on PC ?</title><link>http://localhost:1313/posts/2017/06/what-exactly-happens-when-you-press-the-power-button-on-pc/</link><pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/2017/06/what-exactly-happens-when-you-press-the-power-button-on-pc/</guid><description>&lt;p>Operating system is defined as the low-level software that supports a computer’s basic functions,such as scheduling tasks and controlling…&lt;/p>
-&lt;p>Operating system is defined as the low-level software that supports a computer’s basic functions,such as scheduling tasks and controlling peripherals. OS holds down these 6 high level stages of a typical Linux boot process.&lt;/p>
-&lt;p>It has a few components that comes into play when you click Power Button&lt;/p>
-&lt;p>&lt;img alt="Booting Process\u00a0Diagram" src="https://cdn-images-1.medium.com/max/800/1*WTeFGORgOKJI24M4V1cpGQ.jpeg">
-Booting Process Diagram&lt;/p></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Ayush Verma</title>
+        <link>http://ayushverma8.github.io/posts/</link>
+        <description>Recent content in Posts on Ayush Verma</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="http://ayushverma8.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Automated benchmark tests over DigitalOcean and AWS LightSail</title>
+            <link>http://ayushverma8.github.io/posts/2018-03-23_automated-benchmark-tests-over-digitalocean-and-aws-lightsail-49532a7ad73d/</link>
+            <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+            
+            <guid>http://ayushverma8.github.io/posts/2018-03-23_automated-benchmark-tests-over-digitalocean-and-aws-lightsail-49532a7ad73d/</guid>
+            <description>&lt;p&gt;A comparison between DigitalOcean and AWS LightSail for Data Centers located in London.&lt;/p&gt;
+&lt;p&gt;A comparison between DigitalOcean and AWS LightSail for Data Centers located in London.&lt;/p&gt;
+&lt;h3 id=&#34;vps-benchmarks&#34;&gt;VPS benchmarks&lt;/h3&gt;
+&lt;p&gt;I did ran some standard benchmark tests over &lt;a href=&#34;https://www.digitalocean.com/&#34;&gt;DO&lt;/a&gt; and &lt;a href=&#34;https://lightsail.aws.amazon.com/ls/webapp/home&#34;&gt;AWS&lt;/a&gt; with bench.sh&lt;/p&gt;
+&lt;p&gt;So , here’s the Available stacks for deploying preconfigured stacks&lt;/p&gt;
+&lt;p&gt;AWS Lightsail is typically a EC2 Instance with Easier and less complicated GUI . They offer standalone plans and stacks mentioned below -&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>A comparison between DigitalOcean and AWS LightSail for Data Centers located in London.</p>
+<p>A comparison between DigitalOcean and AWS LightSail for Data Centers located in London.</p>
+<h3 id="vps-benchmarks">VPS benchmarks</h3>
+<p>I did ran some standard benchmark tests over <a href="https://www.digitalocean.com/">DO</a> and <a href="https://lightsail.aws.amazon.com/ls/webapp/home">AWS</a> with bench.sh</p>
+<p>So , here’s the Available stacks for deploying preconfigured stacks</p>
+<p>AWS Lightsail is typically a EC2 Instance with Easier and less complicated GUI . They offer standalone plans and stacks mentioned below -</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*L3OzYouFxlJWrinsUbuXPA.png" alt="LightSail">
+LightSail</p>
+<p>Digital Ocean has very good community and set of Articles to get you Onboard the Server. They provide a few cool amazing stacks including Machine Leaning.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*HOz2wxx-9_kY4y6IqZhGrg.png" alt=""></p>
+<p>Now comes the pricing , AWS Starts with 5$ Plan that provides 512MB RAM and 512GM Transfer but at the same Price , Digital Ocean provides 1 GB of RAM and 1TB Transfer. Decision is yours 💸</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*YYSiBEk-zqt5NDKaOKQ9DQ.png" alt="">
+<img src="https://cdn-images-1.medium.com/max/800/1*Tk3-llqxtMh268xgtlvxDg.png" alt=""></p>
+<p>Digital Ocean :</p>
+<p>Here’s results of benchmarks ran over 1 GB Ubuntu server at London Data Centre.</p>
+<p><strong>Keep an eye , The I/O Operations speed is 241MB/S and Average goes to 445MB/S.</strong></p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*MXDOfpgVFWv8acRQPepOhQ.png" alt=""></p>
+<p>AWS LightSail</p>
+<p>LightSail got an I/O Speed of 67.8MB/S which is definitely slower and would cause issues in Memory Intensive Applications.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*1QTjBnIL7jbwWkdNwx7jPg.png" alt=""></p>
+<p>Here’s an Image of both Screen splitted horizontally ,</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*jP8kRRYObxiNSBQw0yKyjw.png" alt=""></p>
+<h3 id="inference">Inference</h3>
+<p>So , At 10$ , If you are looking for heavy memory intensive applications and good alert system then Digital Ocean is definitely a better choice in market</p>
+<p>But If you are complete newbie and looking for just easy workaround like download .pem and get started then LightSail is a good option for you .</p>
+<p>Hope , That helped . 💚</p>
+<p>By <a href="https://medium.com/@Ayushverma8">Ayush Verma</a> on <a href="https://medium.com/p/49532a7ad73d">March 23, 2018</a>.</p>
+<p><a href="https://medium.com/@Ayushverma8/digitalocean-and-lightsail-49532a7ad73d">Canonical link</a></p>
+<p>Exported from <a href="https://medium.com">Medium</a> on July 6, 2019.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Ultimate guide to use Cloud Services</title>
+            <link>http://ayushverma8.github.io/posts/2016-12-11_ultimate-guide-to-use-cloud-services-c78927b50a82/</link>
+            <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+            
+            <guid>http://ayushverma8.github.io/posts/2016-12-11_ultimate-guide-to-use-cloud-services-c78927b50a82/</guid>
+            <description>&lt;p&gt;This guide will show you how to create a virtual server and deploy an app to it. We are using Digitalocean for PaaS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ultimate guide&lt;/strong&gt; to use Cloud Services&lt;/p&gt;
+&lt;p&gt;This guide will show you how to create a virtual server and deploy an app to it. We are using &lt;a href=&#34;https://www.digitalocean.com&#34;&gt;Digitalocean&lt;/a&gt; for PaaS.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/0*GVMtCxq5Q6S62syt.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h4 id=&#34;okay-why-i-am-writing-this-tldr-guide&#34;&gt;&lt;strong&gt;Okay Why I am writing this TL,DR Guide ?&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;The goal of this guide is to introduce you to the concept of provisioning a virtual server. In the world of cloud computing, you’ll likely deploy applications to various providers such as Heroku, Amazon Web Services, Google Cloud, Microsoft Azure, Rackspace, … and more. Understanding how to do this on your own is incredibly important. This is meant to be an_introductory_ guide; it only notes where you should implement a more secure best practice — you’ll see them next. This all ToDo’s are based on Experience . After this guide you shall be able to spin your first server and host a sweet portfolio. Cool .. eh ?&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>This guide will show you how to create a virtual server and deploy an app to it. We are using Digitalocean for PaaS.</p>
+<p><strong>Ultimate guide</strong> to use Cloud Services</p>
+<p>This guide will show you how to create a virtual server and deploy an app to it. We are using <a href="https://www.digitalocean.com">Digitalocean</a> for PaaS.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*GVMtCxq5Q6S62syt.png" alt=""></p>
+<h4 id="okay-why-i-am-writing-this-tldr-guide"><strong>Okay Why I am writing this TL,DR Guide ?</strong></h4>
+<p>The goal of this guide is to introduce you to the concept of provisioning a virtual server. In the world of cloud computing, you’ll likely deploy applications to various providers such as Heroku, Amazon Web Services, Google Cloud, Microsoft Azure, Rackspace, … and more. Understanding how to do this on your own is incredibly important. This is meant to be an_introductory_ guide; it only notes where you should implement a more secure best practice — you’ll see them next. This all ToDo’s are based on Experience . After this guide you shall be able to spin your first server and host a sweet portfolio. Cool .. eh ?</p>
+<h4 id="what-we-gonna-see-here-no-deepshit-promise">What we gonna see here ? NO Deepshit. Promise</h4>
+<ol>
+<li>Registering for Digital Ocean</li>
+<li>Identify what Droplets are and how to create one</li>
+<li>Work with a remote server (droplet) via command line</li>
+<li>Provisioning a your virtual server</li>
+<li>Deploying an application</li>
+<li>FAQ</li>
+</ol>
+<h3 id="introduction-about-digitalocean">Introduction about Digital Ocean</h3>
+<p><em>Digital Ocean</em> is a Platform as a Service (PaaS). It is designed to do one thing and to do it well — <strong>create instances of web servers for you to use.</strong> Once you’re out working on a job, you’ll be exposed to a variety of PaaS providers — Amazon’s EC2, Heroku, AppHarbor, and of course, Digital Ocean. Today you’re going to sign up for Digital Ocean, <em>create a droplet</em> (their word for a server), and write an app and put it out for the world to see! Because as cool as it is to show your classmates what you’ve been working on, wouldn’t it be cooler to show your friends and prospective employers? Plus, this will give you a leg up when looking for a job: being able to say I can configure and setup a server is kind of a big deal.That’s kinda cool too :-P</p>
+<h3 id="1-registering-for-digitalocean">1. Registering for Digital Ocean.</h3>
+<p><em>Digital Ocean requires a credit?debit card on file. Please be aware that if you run out of credits, your card will be billed. But you can use 50$ free</em> <a href="https://github.com/blog/1900-the-best-developer-tools-now-free-for-students"><em>credit</em></a> <em>to start the server.That’s enough for 3/4th year.Follow instructions and come back here. Try</em> <a href="http://promocodeclub.com/digitalocean-promo-code/"><em>these</em></a> <em>too</em></p>
+<ol>
+<li>Browse to <a href="https://www.digitalocean.com/">https://www.digitalocean.com/</a></li>
+<li>Sign up for a new account on the main page by entering your email address and creating a password.</li>
+<li>You’ll be sent a confirmation email (can take up to 5 minutes).</li>
+<li>Once you confirm your account, you’ll need to enter in credit/Debit card information. Do so. No worries mate . They won’t charge you even a peny right now.</li>
+<li>Now, before doing anything else, select the <em>profile</em> icon and select <em>billing</em>.</li>
+<li>Enter in the unique code sent to you on email for your free credits! (If went for free credits).</li>
+</ol>
+<h3 id="2-identify-what-droplets-are-and-how-to-createone">2. Identify what Droplets are and how to create one!</h3>
+<p>A droplet is a scalable server offered by Digital Ocean. Digital Ocean supports a variety of Linux platforms to develop on (amongst others). A droplet can serve a small website that you use for your own portfolio and it can scale up to host an enterprise application! One of the best things about a droplet is that it can scale — if your site blows up, you can expand the resources it has without needing to create a new server. And best part is Support. They offer very good support using ticket based system.</p>
+<blockquote>
+<p>Now, we need to locate something to make logging into our droplet easy and secure.</p>
+</blockquote>
+<p>Locate an SSH Key. Read more about SSH <a href="https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh">here</a></p>
+<p><strong>Keep your SSH key private. These are meant to be kept secret; kept safe. Don’t share it with strangers.</strong></p>
+<p>We need to create a secure way for you to log into any Droplet that you create. We’re going to use an private key that you already are using on your computer. You should only share private keys with entities you trust! I only share mine with my computers and the servers I run. I even have a copy of mine in my will! They’re private!</p>
+<p><strong>Because I want to make sure that you and only you</strong> — not some hacker in Russia, not some script kiddie in China — has access to your droplet, we’ll use a private key that we’re already comfortable with to connect to the server.</p>
+<p>Open up terminal (<a href="https://www.lifewire.com/ways-to-open-a-terminal-console-window-using-ubuntu-4075024">Ubuntu</a>/<a href="http://www.macworld.co.uk/feature/mac-software/get-more-out-of-os-x-terminal-3608274/">mac</a>) and enter in the following commands:</p>
+<p>List all of the keys in the ./ssh directory. You should see an <code>id_rsa.pub</code>. This is your public key.</p>
+<p>ls -al ~/.ssh</p>
+<p>Open the key in Sublime Text/Any other so we can use it in just a moment.</p>
+<p>subl ~/.ssh/id_rsa.pub  <br>
+cat ~/.ssh/id_rsa.pub  # If no sublime</p>
+<p>If you don’t have SSH keys. <a href="https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2">Click here</a> to generate</p>
+<p>You are half Done…. Now <strong>Create a Droplet</strong></p>
+<ol>
+<li>Log in to Digital Ocean if you have not already done so.</li>
+<li>Select “<strong>Create Droplet</strong>” in the top-right corner.</li>
+<li>Give your droplet a name. It can be <code>my-site</code> or <code>mycutesite.com</code>. The name is just used for reference.</li>
+<li>Select the $5/month size for your Droplet (hobby sites use less resources than large production sites)</li>
+<li>Select a region .</li>
+<li>Ignore the available settings.</li>
+<li>Select the Ubuntu 16.04 Operating system.</li>
+<li>Select Add SSH Key. You will copy/paste the SSH key that we retrieved just moments ago into the text box. Double check here.</li>
+<li>Select Create Droplet.</li>
+<li>Annnnndd we wait! Woahh it’s done.</li>
+</ol>
+<h3 id="3-work-with-a-remote-server-droplet-via-command-line-easiest-and-bestway">3. Work with a remote server (droplet) via command line. Easiest and best Way.</h3>
+<h3 id="log-in-and-setup-a-server-in-a-fewsteps">Log in and setup a server in a few steps!</h3>
+<ol>
+<li>Log into the remote server (Droplet)</li>
+<li>So you must have allotted a IP. <code>ssh root@0.0.0.0</code></li>
+<li>I’m magically logged in because it used my private key from earlier to authenticate who I am!</li>
+</ol>
+<p>$ sudo apt-get update &amp;&amp; apt-get upgrade #To update and upgrade repo&rsquo;s</p>
+<ol>
+<li>Now, explore your file system. <code>apt install tree</code> to use the <code>tree</code> command.</li>
+<li><code>apt</code> is similar to <code>brew</code> for Mac OS X - it is a package manager for command line applications.</li>
+<li><code>pwd</code> and <code>cd</code> around. Feel free to <code>mkdir</code> a few files. Things should look <em>very</em> familiar.</li>
+<li>If you installed the default version of Ubuntu, you might notice you’re in a <code>bash</code> shell.</li>
+<li>Consider looking for your <code>.bash_profile</code> on this system.</li>
+<li>Once you’re done practising your Unix/Linux skills, move on. See here for <a href="https://www.google.co.in/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiTjYKxyOvQAhWKro8KHRluDvEQFggbMAA&amp;url=http%3A%2F%2Fwww.bash.academy%2F&amp;usg=AFQjCNF22X33zxKcBifC_hitJtY2FxH6Ag">bash</a></li>
+<li>Like any other computer, a user can <code>logout</code> of a system to exit.</li>
+</ol>
+<p><strong>Right now you’re automatically logged in as the root user. This user has all of the power on your server. It is best practice create new users to handle specific tasks (such as one user named dba_admin for databases and one named webmaster for web servers).</strong></p>
+<h3 id="4-provisioning-your-virtualserver">4. Provisioning your virtual server</h3>
+<p>We’re going to use the <em>apt</em> package manager to install a few tools. You might remember using <code>brew</code> to do this in Mac OS X earlier during the cohort. Because each environment and application is different, we have provided a few scripts in this repository to help make life easier. This guide will contain a few familiar stacks. You should only install <em>what you need</em> and nothing else. Unneccesary software installed on your software can expose security vulnerabilities that you don&rsquo;t need in the first place.</p>
+<p>For example see this <a href="http://ayushverma.xyz">http://ayushverma.xyz</a></p>
+<p>This is being hosted with exactly same configurations over Singapore server.</p>
+<p>You can ping it and get public IP of any droplet</p>
+<h3 id="everyone">Everyone</h3>
+<blockquote>
+<p><em>Install Git</em></p>
+</blockquote>
+<p><code>apt install git &amp;&amp; apt install build-essential</code></p>
+<h3 id="ruby">Ruby</h3>
+<blockquote>
+<p><em>Install Ruby on your linux box</em></p>
+</blockquote>
+<p>apt install ruby        # installs ruby<br>
+apt install ruby-dev    # install build tools necessary for building some gems (bcrypt, json, &hellip;)</p>
+<p>Verify Ruby is installed by running <code>ruby -v</code>.</p>
+<h3 id="mysql">MySQL</h3>
+<p>MySQL requires that you add a link to Oracle’s repositories. It is not hosted publically on <code>apt</code>. First, we&rsquo;ll grab that repository, add it to <code>apt</code>, and update <code>apt</code> so we can find MySQL.</p>
+<p># get the MySQL repository information<br>
+wget <a href="http://dev.mysql.com/get/mysql-apt-config_0.8.0-1_all.deb">http://dev.mysql.com/get/mysql-apt-config_0.8.0-1_all.deb</a><br>
+# install it<br>
+sudo dpkg -i mysql-apt-config_0.8.0-1_all.deb<br>
+# you&rsquo;ll be provided a GUI option; select the default options (5.7)<br>
+# and exit. this is ok! nothing flashy happens here.<br>
+# update apt so it can point to the MySQL repository<br>
+sudo apt update</p>
+<p>Once that is installed, we’ll install MySQL.</p>
+<p># install a C library that Ruby uses to build the mysql2 gem with<br>
+apt-get install libmysqlclient-dev<br>
+# install mysql<br>
+apt install mysql-server</p>
+<p>Once installed, we can control MySQL with the following commands:</p>
+<p># start<br>
+sudo service mysql start<br>
+# stop<br>
+sudo service mysql stop<br>
+# info<br>
+sudo service mysql status</p>
+<p>To login to MySQL, you may do so with <code>mysql -p</code>. <code>-p</code> specifies that the user is using a password (so it requests you enter one).</p>
+<h3 id="mongodb">MongoDB</h3>
+<p>We recommend using the official installation guide for Ubuntu from Mongodb:<a href="https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-ubuntu/">https://docs.mongodb.com/v3.2/tutorial/install-mongodb-on-ubuntu/</a></p>
+<h3 id="nodejs-ltsv40">Node.js (LTS v4.0)</h3>
+<p>This version of node is the first LTS release post the io.js merger. Usage of many Javascript 2015 (ES6) features requires<code>'use strict'</code> or are not available at all. Node isn&rsquo;t included with the standard list of applications available in <code>apt</code>. We&rsquo;ll need to add it ourselves:</p>
+<p>curl -sL <a href="https://deb.nodesource.com/setup_4.x">https://deb.nodesource.com/setup_4.x</a> | sudo -E bash -</p>
+<p>Once completed, we can then install Node by running:</p>
+<p>apt install nodejs</p>
+<p>You can verify that Node and <em>npm</em> have been installed by running the following commands.</p>
+<p>npm -v<br>
+node -v</p>
+<h3 id="nodejs-ltsv60">Node.js (LTS v6.0)</h3>
+<p>This version of node contains most Javasript 2015 (ES6) features availability directly in Node without the need of transpiling. Node isn’t included with the standard list of applications available in <code>apt</code>. We&rsquo;ll need to add it ourselves:</p>
+<p>curl -sL <a href="https://deb.nodesource.com/setup_6.x">https://deb.nodesource.com/setup_6.x</a> | sudo -E bash -</p>
+<p>Once completed, we can then install Node by running:</p>
+<p>apt install nodejs</p>
+<p>You can verify that Node and <em>npm</em> have been installed by running the following commands.</p>
+<p>npm -v<br>
+node -v</p>
+<h3 id="5-deploying-an-application">5. Deploying an application</h3>
+<p>This is some serious and important thing to be taken care of !</p>
+<p>Applications on a server are ran just like any other application on your laptop — through terminal commands. To make an application run on your virtual server, you must consider how it runs on your laptop. Does it need a database? Is that database running? Did you change your environment variables to reflect the different SQL users between your laptop and server? There are a lot of things to consider when deploying an application. Before diving into specific platforms, here are some questions to consider:</p>
+<ul>
+<li>Is Git installed?</li>
+<li>Have you cloned your application to your server yet?</li>
+<li>Does my application require a database? Is it the same type on my computer and server?</li>
+<li>Have I created appropriate SQL users for my database?</li>
+<li>Have I updated my config files and environment variables to point to the proper server?</li>
+<li>Have I removed all breakpoints and set my app to run in production mode (vs development)?</li>
+<li>Have I ran all database related tasks (Rake, Gulp, …)?</li>
+</ul>
+<p>Now, we need to create a directory to store all of our web applications.</p>
+<p>cd /        # root directory<br>
+cd /var     # var dir<br>
+mkdir www   # creates /var/www<br>
+pwd         # /var/www</p>
+<p>Clone any applications you’d like to run using Git in the <code>/var/www</code> folder. This is the typical location for storing web applications on Debian (Ubuntu) linux servers. This location is one of the defaults that has been constant throughout decades of web development.</p>
+<h3 id="deploying-node-applications">Deploying Node Applications</h3>
+<p>To deploy a Node application, clone your Git project into your <code>/var/www/</code> folder and change into it. Install the required modules for your application:</p>
+<p>npm install</p>
+<p>Next, install pm2, a process monitor for Node applications.</p>
+<p>npm install pm2 -g</p>
+<p>Finally, you can start your application by running the script specified for <code>npm start</code> inside of your <code>package.json</code>.</p>
+<p>pm2 start app.js -x &ndash; &ndash;prod</p>
+<p>You can stop your application, too (for maintenance and upgrading):</p>
+<p>pm2 stop app.js -x &ndash; &ndash;prod</p>
+<h3 id="faq">FAQ</h3>
+<p>Alright some small things that we might have missed !</p>
+<p>How do I use Nano?</p>
+<ul>
+<li>Exit — ctrl-x</li>
+<li>Prompts you to save — select Y or N</li>
+<li>Prompts you to confirm where saving. Either edit or press return/enter.</li>
+</ul>
+<p>How do I exit vi?</p>
+<ul>
+<li><code>:</code> + <code>q!</code></li>
+<li>Forces an exit without a save</li>
+</ul>
+<p>Digital Ocean CLI</p>
+<ul>
+<li>Check <a href="https://github.com/digitalocean/doctl">here</a></li>
+</ul>
+<p>All scripts used in this article are available at G<a href="https://github.com/Ayushverma8/Ultimate-Guide-to-Cloud"><em>ithub</em></a>.</p>
+<p>By <a href="https://medium.com/@Ayushverma8">Ayush Verma</a> on <a href="https://medium.com/p/c78927b50a82">December 11, 2016</a>.</p>
+<p><a href="https://medium.com/@Ayushverma8/ultimate-guide-to-use-cloud-services-c78927b50a82">Canonical link</a></p>
+<p>Exported from <a href="https://medium.com">Medium</a> on July 6, 2019.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Why Chatbots?</title>
+            <link>http://ayushverma8.github.io/posts/2017-11-13_why-chatbots--cb6c420b3147/</link>
+            <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+            
+            <guid>http://ayushverma8.github.io/posts/2017-11-13_why-chatbots--cb6c420b3147/</guid>
+            <description>&lt;p&gt;Chatbots have recently become quite popular. They are being used by businesses to provide proactive assistance to their customers. They…&lt;/p&gt;
+&lt;p&gt;Chatbots have recently become quite popular. They are being used by businesses to provide proactive assistance to their customers. They have grown and improved to capitalize on social media and messenger platforms. Most people haven’t openly identified the true potential of chatbots, so this article is designed to act as a guide to build chatbots on &lt;a href=&#34;http://www.engati.com&#34;&gt;Engati&lt;/a&gt; Platform.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Chatbots have recently become quite popular. They are being used by businesses to provide proactive assistance to their customers. They…</p>
+<p>Chatbots have recently become quite popular. They are being used by businesses to provide proactive assistance to their customers. They have grown and improved to capitalize on social media and messenger platforms. Most people haven’t openly identified the true potential of chatbots, so this article is designed to act as a guide to build chatbots on <a href="http://www.engati.com">Engati</a> Platform.</p>
+<p>The number of businesses using chatbots has grown exponentially. Chatbots docked to Facebook’s Messenger have increased from 30,000 in 2016 to over 100,000 today. Every major company has announced their own chatbot and 60% of the youth population uses them daily.</p>
+<p>These statistics prove that chatbots are the new-gen tech. No more waiting for the right time to incorporate them into your business. The time is now. By the year 2020, nearly 80% of businesses will have their own chatbot.</p>
+<p><em>Billions of people are already using chatbots, so it’s time your business did too.</em></p>
+<h3 id="the-idea">The Idea</h3>
+<p>Ever felt lost and directionless while in a huge mall?</p>
+<p>This bot addresses this problem by providing a <strong>hyper-local map with the relative location</strong> of whatever brand/store, restaurant, restroom/elevator or mall-amenity the user wants to know. Apart from providing a catalogue of services and stores the mall can offer, the bot also serves a medium for <strong>Business to Consumer(B2C) Marketing</strong> for the brands/stores in the mall to broadcast their latest offers/sales. The bot also provides a functionality to contact the mall help-desk when desired.</p>
+<p><strong>Note</strong> — This bot is targeted for Phoenix Marketcity Pune, as a proof of concept , it only includes a set percentage of all stores currently in the mall.</p>
+<h3 id="industry--usersegment">Industry &amp; User Segment</h3>
+<p>The bot is targeted for <em>Malls/Supermarkets/Shopping Complexes</em>.</p>
+<p>This bot is aimed to provide <em>assistance to all people visiting the mall regardless of age</em>. Since, it provides an ability to explore an a huge area quickly, it will be of <em>great use for tourists and first-time visitors</em> who have no idea about the location of stores within the mall.</p>
+<h3 id="how-does-engatiwork">How does Engati work?</h3>
+<p>This is very simple — <a href="http://www.engati.com">Engati</a> offers two major functionalities to help create the bot- <strong>Paths</strong> &amp; <strong>FAQs</strong>.</p>
+<p><em>Paths</em> can be defined as different waterfalls or flows which the bot can take. They define what the bot is going to reply to user in case of a specific intent.</p>
+<p>For Eg- For a Restaurant Bot you may have paths like — View Menu, Order, Cancel Order, View Discounts, Track Order etc</p>
+<p><em>FAQs</em> define the many ways a bot could interact with the user. This functionality allows you to define various utterances/phrases for the defined paths.</p>
+<p>For Eg- For a Restuarant Bot, to view menu you can have FAQs like — “Show me the menu”, “What cuisines do you serve?”, “Can I see the menu?” etc</p>
+<p><strong>Note</strong> — Apart from the mentioned functionalities, Engati also offers a lot of other smart features which we are going to find out about as we proceed.</p>
+<h3 id="building-theidea">Building the Idea</h3>
+<p>We started by charting out the various major features/information and functionalities the bot could offer to the user-</p>
+<p>Given below is a brief list of functionalities of the bot-</p>
+<p><strong>Services &amp; Stores Catalogue</strong> — Gives a carousel of services, stores and amenities in the mall.</p>
+<p><strong>Shop Categories</strong> — Gives a carousel of shop categories in the mall.</p>
+<p><strong>Eat/Restaurant Categories</strong> — Gives a carousel of the cuisines served at various restaurants in the mall.</p>
+<p><strong>Entertainment Categories</strong> — Gives a carousel of all cinema halls, bars and gaming zones in the mall.</p>
+<p><strong>Utilities Categories</strong> — Gives a carousel of all mall-amenities.</p>
+<p><strong>Offers</strong> — Gives a list of current offers in stores.(From Mall-Backend)</p>
+<p><strong>Help</strong> — Provides mall help-desk contact and services/stores in mall.</p>
+<h3 id="defining-paths">Defining Paths</h3>
+<p>We started out by covering basic features of the bot, but the platform’s rich features allowed us to create upto 20 paths covering almost all features we thought of comprehensively.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*QFLG_-DnTe9dhry5.png" alt=""></p>
+<p>While creating paths we came across two cool features of the platform-</p>
+<ol>
+<li><strong>Add a Node</strong> — This basically allowed us to communicate with the user in every way possible.</li>
+</ol>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*xc_kUrLP-JU9E9rY.png" alt=""></p>
+<ol>
+<li><strong>Declaring &amp; Accessing Variables</strong> — We can readily access variables with key user-data anywhere on the platform.</li>
+</ol>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*EYsEvCmGj9Zhutc5.png" alt=""></p>
+<h3 id="defining-faqs">Defining FAQs</h3>
+<p>Now, this was a fun part. We had to define and train the bot with utterances/FAQs which will be used to trigger any of the paths we defined above.</p>
+<p>This is how we did that -</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*lcZ86NhLjPzf1Ana.png" alt=""></p>
+<p>The picture above shows some classified sample utterances for trigger paths.</p>
+<h3 id="integrating-back-end-withengati">Integrating Back-End with Engati</h3>
+<ul>
+<li>Get a full REST API for Consuming GET Request , Specially defined for <a href="http://www.engati.com"><em>Engati</em></a> flavored Schema</li>
+<li>Useful for developers who need a quick back-end for prototyping and mocking</li>
+<li>Examples</li>
+</ul>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*PSiMe5mF6SyqE1-D." alt=""></p>
+<p>Create a <code>engati.json</code> file</p>
+<pre tabindex="0"><code>{ &#34;data&#34;: { &#34;type&#34;: &#34;carousel&#34;, &#34;templates&#34;: [{ &#34;title&#34;: &#34;20% Off&#34;, &#34;image_url&#34;: &#34;https://viditgupta.me/botimage/footwear/woodlandlogo.png&#34;, &#34;buttons&#34;: [{ &#34;payload&#34;: &#34;https://viditgupta.me/botimage/footwear/woodlandmap.png&#34;, &#34;title&#34;: &#34;View Location&#34;, &#34;type&#34;: &#34;web_url&#34; }] }, { &#34;title&#34;: &#34;Free Installation with Bravia&#34;, &#34;image_url&#34;: &#34;https://viditgupta.me/botimage/electronics/sonylogo.png&#34;, &#34;buttons&#34;: [{ &#34;payload&#34;: &#34;https://viditgupta.me/botimage/electronics/sonymap.png&#34;, &#34;title&#34;: &#34;View Location&#34;, &#34;type&#34;: &#34;web_url&#34; }] } ] } }
+</code></pre><h3 id="start-jsonserver">Start JSON Server</h3>
+<p>Now if you go to <a href="http://localhost:3000/data">http://localhost:3000/data</a>, you’ll get</p>
+<pre tabindex="0"><code>{ &#34;id&#34;: 1, &#34;title&#34;: &#34;json-server&#34;, &#34;author&#34;: &#34;typicode&#34; }
+</code></pre><h3 id="plural-routes">Plural routes</h3>
+<pre tabindex="0"><code>GET /data POST /data PUT /data
+</code></pre><p><strong>Note</strong> — Find the barebone API at <a href="https://github.com/Ayushverma8/Engati-API-Starter">https://github.com/Ayushverma8/Engati-API-Starter</a> and <a href="https://github.com/Ayushverma8/Engati-Server-with-Vue-and-Express">https://github.com/Ayushverma8/Engati-Server-with-Vue-and-Express</a></p>
+<h3 id="configuring-channels">Configuring Channels</h3>
+<p>Once we were done building the bot, we decided to integrate and test it out on platforms like — Facebook Messenger and our own website.</p>
+<p>Configuring Facebook Messenger as a channel took just 5–10 minutes, the bot was live in ASAP.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*gorjoMHD5hQSsGmB.png" alt=""></p>
+<p>For adding the bot to our website, we just had to add a few scripts in the HTML code and it was up and running!</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*mM3u4KNxQIRj2mIi.png" alt=""></p>
+<h3 id="analytics">Analytics</h3>
+<p>What’s the point of creating a business bot if you can’t increase your conversion rate or retain customers?</p>
+<p><a href="http://www.engati.com">Engati</a>’s platform offers just the right tools to keep track of things like Button Actions, Most Frequent Messages, Messages Received vs Sent, Average Messages and Actions per user.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*42HNAIlk40CbgYG0.png" alt=""></p>
+<h3 id="main-takeaway">Main Takeaway</h3>
+<ul>
+<li>The platform allowed us to create, train and deploy a chatbot on multiple channels, in minutes, without writing any code.</li>
+<li>The platform’s ability to deploy continuously saved a lot of our time while testing out flows and features.</li>
+<li>We were able to connect our bot to Facebook Messenger channel and configure the persistent menus without going through Facebook’s Messenger App Review.</li>
+<li>The platform is intuitive (better than API.AI), well defined and has a pretty easy learning curve, it provided us with a wide array of ways to interact with the user.</li>
+<li>The pre-configured ability of bot to handle small-talk is pretty great and keeps the conversation flow intact.</li>
+<li>The comprehensive analytics offered by the platform (user engagement and retention) are pretty great and saves the pain of using 3rd party tools like Bot Analytics (<a href="https://botanalytics.co/">https://botanalytics.co/</a>)</li>
+</ul>
+<p>By <a href="https://medium.com/@Ayushverma8">Ayush Verma</a> on <a href="https://medium.com/p/cb6c420b3147">November 13, 2017</a>.</p>
+<p><a href="https://medium.com/@Ayushverma8/why-chatbots-cb6c420b3147">Canonical link</a></p>
+<p>Exported from <a href="https://medium.com">Medium</a> on July 6, 2019.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>How about using Postman REST Client !</title>
+            <link>http://ayushverma8.github.io/posts/2018-02-22_how-about-using-postman-rest-client---c6db4642eccf/</link>
+            <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+            
+            <guid>http://ayushverma8.github.io/posts/2018-02-22_how-about-using-postman-rest-client---c6db4642eccf/</guid>
+            <description>&lt;p&gt;You can Even make a collection and see the health of API Calls. I think this will be the best way to monitor Status of our API.&lt;/p&gt;
+&lt;p&gt;How about using Postman REST Client !&lt;/p&gt;
+&lt;p&gt;You can Even make a collection and see the health of API Calls. I think this will be the best way to monitor Status of our API.&lt;/p&gt;
+&lt;p&gt;By &lt;a href=&#34;https://medium.com/@Ayushverma8&#34;&gt;Ayush Verma&lt;/a&gt; on &lt;a href=&#34;https://medium.com/p/c6db4642eccf&#34;&gt;February 22, 2018&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/@Ayushverma8/how-about-using-postman-rest-client-c6db4642eccf&#34;&gt;Canonical link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Exported from &lt;a href=&#34;https://medium.com&#34;&gt;Medium&lt;/a&gt; on July 6, 2019.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>You can Even make a collection and see the health of API Calls. I think this will be the best way to monitor Status of our API.</p>
+<p>How about using Postman REST Client !</p>
+<p>You can Even make a collection and see the health of API Calls. I think this will be the best way to monitor Status of our API.</p>
+<p>By <a href="https://medium.com/@Ayushverma8">Ayush Verma</a> on <a href="https://medium.com/p/c6db4642eccf">February 22, 2018</a>.</p>
+<p><a href="https://medium.com/@Ayushverma8/how-about-using-postman-rest-client-c6db4642eccf">Canonical link</a></p>
+<p>Exported from <a href="https://medium.com">Medium</a> on July 6, 2019.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Apache Kafka | Introduction</title>
+            <link>http://ayushverma8.github.io/posts/2017-08-26_apache-kafka---introduction-b4e4d082cef6/</link>
+            <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+            
+            <guid>http://ayushverma8.github.io/posts/2017-08-26_apache-kafka---introduction-b4e4d082cef6/</guid>
+            <description>&lt;p&gt;Apache Kafka is a publish-subscribe messaging system.A messaging system let you send messages between processes, applications, and…&lt;/p&gt;
+&lt;p&gt;Apache Kafka is a publish-subscribe messaging system.A messaging system let you send messages between processes, applications, and servers.Broadly Speakng, Apache Kafka is a software where topics (A topic might be a category) can be defined and further processed . Applications may connect to this system and transfer a message onto the topic. A message can include any kind of information ,from any event on your Personal blog or can be a very simple text message that would trigger any other event.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Apache Kafka is a publish-subscribe messaging system.A messaging system let you send messages between processes, applications, and…</p>
+<p>Apache Kafka is a publish-subscribe messaging system.A messaging system let you send messages between processes, applications, and servers.Broadly Speakng, Apache Kafka is a software where topics (A topic might be a category) can be defined and further processed . Applications may connect to this system and transfer a message onto the topic. A message can include any kind of information ,from any event on your Personal blog or can be a very simple text message that would trigger any other event.</p>
+<h3 id="kafka-broker">Kafka Broker</h3>
+<p>A Kafka cluster usually consists of one or more servers (called as kafka brokers), which are running Kafka over them. <strong>Producers</strong> are processes that publish data (push messages over trigger) into Kafka topics within the specified broker. A consumer of topics pulls messages off a Kafka topic.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*f-k8hE7YTnx_j_ND.png" alt=""></p>
+<h3 id="kafka-topic">Kafka Topic</h3>
+<p>A Topic basically is a category or a feed name to which messages are stored and published during operations. Messages are mostly byte arrays that can store any object in any format.Yes , That’s the best thing about kafka.Any object can be stored as byte array. Also,As we discussed before, all Kafka messages are organized into topics. If you wish to send a message you send it to a specific topic and if you wish to read a message you read it from a specific topic.</p>
+<h3 id="consumers-and-consumergroups">Consumers and consumer groups</h3>
+<p>Consumers can Always read messages starting from a specific offset and are allowed to read from any offset point they choose in between. This allows consumers to join the cluster at any point in time.This makes functioning and working really smooth.<br>
+<strong>Partitions allow you to parallelise a topic by splitting the data in a particular topic across multiple brokers.</strong></p>
+<p><img src="https://cdn-images-1.medium.com/max/800/0*q-Qinlcp3a-sLTD1.jpg" alt=""></p>
+<h3 id="apache-kafka-and-important-serverconcepts">Apache Kafka and Important Server concepts</h3>
+<ul>
+<li><strong>Topic partition</strong>: Kafka topics are divided into a number of partitions, which allows you to split data across multiple brokers.</li>
+<li><strong>Consumer Group</strong>: A consumer group includes the set of consumer processes that are subscribing to a specific topic.</li>
+<li><strong>Node</strong>: A node is a single computer in the Apache Kafka cluster.</li>
+<li><strong>Replicas</strong> A replica of a partition is a “backup” of a partition. Replicas never read or write data. They are used to prevent data loss.</li>
+<li><strong>Producer</strong>: Application that sends the messages.</li>
+<li><strong>Consumer</strong>: Application that receives the messages.</li>
+</ul>
+<h3 id="real-time-applications">Real time Applications</h3>
+<ul>
+<li><strong>Twitter</strong>: Registered users can read and post tweets, but unregistered users can only read tweets. Twitter uses Storm-Kafka as a part of their stream processing infrastructure.</li>
+<li><strong>LinkedIn</strong>:Apache Kafka is used at LinkedIn for activity stream data and operational metrics. Kafka mes-saging system helps LinkedIn with various products like LinkedIn Newsfeed, LinkedIn Today for online message consumption and in addition to offline analytics systems like Hadoop</li>
+<li><strong>Netflix</strong>: Netflix is an American multinational provider of on-demand Internet streaming media. Netflix uses Kafka for real-time monitoring and event processing.</li>
+<li><strong>Box</strong>:At Box, Kafka is used for the production analytics pipeline &amp; real time monitoring infrastructure. We are planning to use Kafka for some of the new products &amp; features</li>
+</ul>
+<p><strong>References</strong> :<br>
+<a href="https://kafka.apache.org/">https://kafka.apache.org/</a></p>
+<p><a href="https://cwiki.apache.org/confluence/display/KAFKA/Powered+By" title="https://cwiki.apache.org/confluence/display/KAFKA/Powered+By"><strong>Powered By - Apache Kafka - Apache Software Foundation</strong><br>
+_iPinYou is the largest DSP in China which has its HQ in Beijing and offices in Shanghai, Guangzhou, Silicon Valley and…_cwiki.apache.org</a><a href="https://cwiki.apache.org/confluence/display/KAFKA/Powered+By"></a></p>
+<p><a href="https://ayushverma8.github.io/Apache-kafka-Introduction/">https://ayushverma8.github.io/Apache-kafka-Introduction/</a></p>
+<p>By <a href="https://medium.com/@Ayushverma8">Ayush Verma</a> on <a href="https://medium.com/p/b4e4d082cef6">August 26, 2017</a>.</p>
+<p><a href="https://medium.com/@Ayushverma8/apache-kafka-introduction-b4e4d082cef6">Canonical link</a></p>
+<p>Exported from <a href="https://medium.com">Medium</a> on July 6, 2019.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>How Does Instagram Stories Rank Viewers in a Particular Order?</title>
+            <link>http://ayushverma8.github.io/posts/2017-10-18_how-does-instagram-stories-rank-viewers-in-a-particular-order--7826b99b6215/</link>
+            <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+            
+            <guid>http://ayushverma8.github.io/posts/2017-10-18_how-does-instagram-stories-rank-viewers-in-a-particular-order--7826b99b6215/</guid>
+            <description>&lt;p&gt;So you must have used Snapchat and Instagram stories, but ever wondered why some viewers are always on top no matter what chronological…&lt;/p&gt;
+&lt;p&gt;So you must have used Snapchat and Instagram stories, but ever wondered why some viewers are always on top no matter what chronological order they saw the story?!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/1*bWuZWYWTMnJjPp1qqM3ziw.jpeg&#34; alt=&#34;Instagram Story Preview&#34;&gt;
+Instagram Story Preview&lt;/p&gt;
+&lt;h4 id=&#34;alright-lets-try-to-demystify&#34;&gt;Alright. Let’s try to demystify!&lt;/h4&gt;
+&lt;p&gt;With Instagram’s stories, the algorithm is the editor; it scans all public images and videos posted using &lt;strong&gt;hashtags&lt;/strong&gt; and &lt;strong&gt;locations&lt;/strong&gt;, decides which images and videos to highlight for each specific hashtag and location, and picks the order they play in.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>So you must have used Snapchat and Instagram stories, but ever wondered why some viewers are always on top no matter what chronological…</p>
+<p>So you must have used Snapchat and Instagram stories, but ever wondered why some viewers are always on top no matter what chronological order they saw the story?!</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*bWuZWYWTMnJjPp1qqM3ziw.jpeg" alt="Instagram Story Preview">
+Instagram Story Preview</p>
+<h4 id="alright-lets-try-to-demystify">Alright. Let’s try to demystify!</h4>
+<p>With Instagram’s stories, the algorithm is the editor; it scans all public images and videos posted using <strong>hashtags</strong> and <strong>locations</strong>, decides which images and videos to highlight for each specific hashtag and location, and picks the order they play in.</p>
+<p>After breathtaking research and a few experiments , I felt order of Instagram stories at the top of the app is based on engagement data from Instagram and Facebook. Yes you read it right, engagement from Facebook too. But how?</p>
+<p>All Social platforms are based on proprietary algorithms that decide what should be the order of views. They don’t 100% leak what’s going on at back!</p>
+<p>So here are few aspects which decide the story viewers ranking :</p>
+<ol>
+<li>Your public activity!</li>
+<li>Messages. Yes. They damn Consider them too.</li>
+<li>Interactions within Stories. Like each time you reply to her stories they count a point on you . :-P</li>
+<li>And Yeah. Most interesting. Profile views. So the more you stalk them in Instagram and Facebook, Chances are there that you would be on top of their story .</li>
+</ol>
+<p>Per a <a href="http://www.keepitusable.com/blog/?p=2568">Harvard study</a>, social networks are both physically and psychologically addictive, so it’s reasonable to believe that platforms like Instagram are optimizing interfaces and features that trick our brains into wanting to check and engage more and more.</p>
+<p>So , These algorithms are pretty mysterious and secretive !</p>
+<p>By <a href="https://medium.com/@Ayushverma8">Ayush Verma</a> on <a href="https://medium.com/p/7826b99b6215">October 18, 2017</a>.</p>
+<p><a href="https://medium.com/@Ayushverma8/why-instagram-stories-rank-viewers-in-a-particular-order-7826b99b6215">Canonical link</a></p>
+<p>Exported from <a href="https://medium.com">Medium</a> on July 6, 2019.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Supercharged Unit Testing of Alexa skills with Postman and Newman</title>
+            <link>http://ayushverma8.github.io/posts/2018-03-18_supercharged-unit-testing-of-alexa-skills-with-postman-and-newman-53e6c48214e3/</link>
+            <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+            
+            <guid>http://ayushverma8.github.io/posts/2018-03-18_supercharged-unit-testing-of-alexa-skills-with-postman-and-newman-53e6c48214e3/</guid>
+            <description>&lt;p&gt;Testing Alexa Skill with Postman supersedes the basic testing service provided by the Amazon Developer Portal and Tools.&lt;/p&gt;
+&lt;p&gt;Lately Amazon has been working on improving the developer experience for its Alexa intelligent personal assistant. Part of this strategy Skill Management API,provides the ability to test multi-turn…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/1*9cVPQ8azohAoaMvopR-ESw.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Lately Amazon has been working on improving the developer experience for its Alexa intelligent personal assistant. Part of this strategy Skill Management &lt;a href=&#34;https://hackernoon.com/tagged/api&#34;&gt;API&lt;/a&gt;,provides the ability to test multi-turn conversation, entity resolution, dialog management, and more features that are not supported by existing test tools.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Testing Alexa Skill with Postman supersedes the basic testing service provided by the Amazon Developer Portal and Tools.</p>
+<p>Lately Amazon has been working on improving the developer experience for its Alexa intelligent personal assistant. Part of this strategy Skill Management API,provides the ability to test multi-turn…</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*9cVPQ8azohAoaMvopR-ESw.png" alt=""></p>
+<p>Lately Amazon has been working on improving the developer experience for its Alexa intelligent personal assistant. Part of this strategy Skill Management <a href="https://hackernoon.com/tagged/api">API</a>,provides the ability to test multi-turn conversation, entity resolution, dialog management, and more features that are not supported by existing test tools.</p>
+<p>Testing Alexa Skill with Postman supersedes the basic testing service provided by the Amazon Developer Portal.</p>
+<p>To start, we are going to use three things to make all of this work</p>
+<p>We need threee things to get started</p>
+<ul>
+<li><a href="https://docs.aws.amazon.com/lambda/latest/dg/welcome.html">AWS Lambda</a></li>
+</ul>
+<p>If you haven’t built a skill for Alexa before, I would suggest , go through <a href="https://developer.amazon.com/alexa-skills-kit/alexa-skill-quick-start-tutorial">Build skill in 5 minutes</a> and get started with core principles .</p>
+<p>Once you gotten your Lambda function set up and running we are good to go .</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*Mjp8Lt9yv40yDG4OWAEo1g.png" alt="Function might be looking something like this">
+Function might be looking something like this</p>
+<ul>
+<li><a href="https://aws.amazon.com/api-gateway/">API Gateway</a></li>
+</ul>
+<p>With Amazon API Gateway, we can provide Alexa with a consistent and scalable programming interface to access endpoints in the backend.</p>
+<ol>
+<li>To begin with , go to <a href="https://aws.amazon.com/api-gateway/">AWS API Gateway</a> and sign in to the console.</li>
+<li>First, make sure that you have chosen “New API” from the radio buttons at the top of the page.Then make a new role and choose “L<a href="https://www.google.co.in/search?q=lambda%20execution%20role%20cloudformation&amp;ved=0ahUKEwjAntrtwvXZAhWLfZAKHT4ZCwEQsKwBCC0oADAA">ambda execution role</a>”</li>
+<li>Now you need to open the Actions button, and this time choose “Deploy API.” In the Deploy API box that appears, choose “[New Stage]” for Deployment/Test stage. For the other three values (Stage Name, Stage description, and Deployment description), you can just use the word “Test” for all of them. The values don’t matter, it’s just so that you know what the purpose of this new API is for.We gonna need this at later stage.</li>
+</ol>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*3I6gwmZt-Tx0Ey2yJJl79g.png" alt="Sample Dashboard">
+Sample Dashboard</p>
+<p>4.Now Now , Copy the Invoke URL from the blue box at the top of the screen. Your API is set up and ready to roll.</p>
+<ul>
+<li>Getting up and running with Postman API Tool</li>
+</ul>
+<ol>
+<li>If you don’t already have this Amazing tool, make sure to download <a href="https://www.getpostman.com/">Postman</a>. but wait …</li>
+</ol>
+<p><strong>Why Postman ?</strong></p>
+<ul>
+<li>In this article , We will be using Postman to create and execute our unit tests against our Lambda function.Each time that you make a change to your Lambda, you should run your tests to make sure that everything is still working as expected</li>
+<li>We have something Amazing called <a href="https://www.getpostman.com/docs/v6/postman/monitors/intro_monitors">Monitors</a> , Which will help us to save overhead in Unittesting <a href="https://hackernoon.com/tagged/alexa-skills">Alexa Skills</a> .</li>
+<li>Postman helps us writing pre-request scripts and test scripts for requests , based on TDD. and hell yeah , <a href="https://www.getpostman.com/docs/v6/postman/scripts/postman_sandbox"><em>Postman collections</em></a> are Making API testing great again.</li>
+<li>I work at Postman. 😜</li>
+</ul>
+<p>Alright , So now you are up and running Postman hopefully.</p>
+<p>If you need more security for each requests over API gateway then you can add <a href="https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-use-postman-to-call-api.html">AWS Signatures</a> and Proceed.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*AoXZaCpNFmXBKHHdBKJqvQ.png" alt=""></p>
+<p>Now you need a sample request get started with testing. You can get a Lambda request from the Service Simulator like serverless , or from your Cloudwatch logs in amazon account.</p>
+<p>Choose body and click on “raw” radio button , which indicates we are forwarding our own JSON data to Lambda.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*DqDfwXo5Lqeknwd49dxNTg.png" alt="Raw datatype">
+Raw datatype</p>
+<p>Output will be embdded <code>&quot;SSML&quot;</code>: Indicates that the output speech is text <a href="https://developer.amazon.com/docs/custom-skills/speech-synthesis-markup-language-ssml-reference.html">marked up with SSML</a>. It’s a way by which alexa communicates.</p>
+<p>You can know more about Request structure <a href="https://developer.amazon.com/docs/smapi/account-linking-schemas.html">here</a>.</p>
+<p>At this point be sure and verified that you can successfully communicate with your Lambda, Now we can start creating a suite of tests for this request which will define units .</p>
+<p>For Example , We are using favorite color skill, “<code>WhatsMyColorIntent what my favorite color”</code> should return “<code>orange&quot;</code></p>
+<p>pm.test(&ldquo;Body is correct&rdquo;, function () {<br>
+pm.response.to.have.body(&ldquo;orange&rdquo;);<br>
+});</p>
+<p>Similary when you want to check if Alexa continues the skill after user gives a response and reprompts for input , We need to check field <code>shouldEndSession</code></p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*1w0Jdms73tJlX-bvMRuykQ.png" alt="Tests">
+Tests</p>
+<p>Similarly you can define set of tests for a Alexa Skill and run it everytime you make some changes in skill. Postman will help you to know breaks when you make any unexpected change in the request or code.</p>
+<p>This way you save much of time and spend writing code instead of boring testing.</p>
+<p>You can also save Alexa response to Postman and write test without calling Prod API again again for one session.You can learn more <a href="http://blog.getpostman.com/2017/03/16/simulate-a-back-end-with-postmans-mock-service/">here</a>. You can run your collection in Runner and Know status of your Skill.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*M6mtjD-HKQYi_ZjHkLmDgQ.png" alt="Monitor Skills on Postman’s cloud.">
+Monitor Skills on Postman’s cloud.</p>
+<p>Now ,If you are CLI freak like me , you would prefer testing all of Tests from Command Line right ?</p>
+<p>No problem , Postman has a tool called , <a href="https://github.com/postmanlabs/newman">newman</a> , it’s a command line companion for Postman.</p>
+<p>Install newman by <code>npm install newman --global</code> with NodeJS.</p>
+<p>That’s it. Now it’s time to get hands dirty with Collections in CLI.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*5jfhpJ8RpzJEs6eBqIuX2w.png" alt="Export by clicking here.">
+Export by clicking here.</p>
+<p>Now , Run your tests in CLI with</p>
+<p><code>newman run AlexaSkillTesting/test_to_check_color.json</code></p>
+<p>And That’s it. See your terminal talking to Postman and Testing for you .</p>
+<p>And Yes , <strong>Postman Monitors can surely help by keeping an eyes on response and notifies when something goes wrong. Because , We’re going to write an entire suite of unit tests for our skill so that when we make a change to something, we have the confidence that nothing has broken and Everything is 200 OK . And It Absolutely helps us in functional testing of Skill at each conversational phase. So , Cheers 🍺</strong></p>
+<p>Hopefully , I have helped you in testing alexa skills . Thanks for reading 🙌</p>
+<p>By <a href="https://medium.com/@Ayushverma8">Ayush Verma</a> on <a href="https://medium.com/p/53e6c48214e3">March 18, 2018</a>.</p>
+<p><a href="https://medium.com/@Ayushverma8/supercharged-unit-testing-of-alexa-skills-with-postman-and-newman-53e6c48214e3">Canonical link</a></p>
+<p>Exported from <a href="https://medium.com">Medium</a> on July 6, 2019.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Data Stats SRM University — All Branches</title>
+            <link>http://ayushverma8.github.io/posts/2018-03-24_data-stats-srm-university---all-branches-8c2cf0dd099f/</link>
+            <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
+            
+            <guid>http://ayushverma8.github.io/posts/2018-03-24_data-stats-srm-university---all-branches-8c2cf0dd099f/</guid>
+            <description>&lt;p&gt;I wrote some crawlers for Facebook , LinkedIn , Resume Websites and crawled some relatable data for Batch 2014–2018 and Batch 2015–2019 …&lt;/p&gt;
+&lt;p&gt;I wrote some crawlers for Facebook , LinkedIn , Resume Websites and crawled some relatable data for &lt;strong&gt;Batch 2014–2018 and Batch 2015–2019&lt;/strong&gt; . Here’s some of the Analysis Insights. This are just for experimental purpose.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;A1 +ve&lt;/strong&gt; blood group people are actually born as topper and are too frequent in Topper list. Majority of them were from &lt;strong&gt;CBSE Board&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/1*FYO2812M0V1CDnEEWTeCtQ.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>I wrote some crawlers for Facebook , LinkedIn , Resume Websites and crawled some relatable data for Batch 2014–2018 and Batch 2015–2019 …</p>
+<p>I wrote some crawlers for Facebook , LinkedIn , Resume Websites and crawled some relatable data for <strong>Batch 2014–2018 and Batch 2015–2019</strong> . Here’s some of the Analysis Insights. This are just for experimental purpose.</p>
+<ol>
+<li><strong>A1 +ve</strong> blood group people are actually born as topper and are too frequent in Topper list. Majority of them were from <strong>CBSE Board</strong>.</li>
+</ol>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*FYO2812M0V1CDnEEWTeCtQ.png" alt=""></p>
+<p>2. People born in and around <strong>August 1996 to January 1997</strong> were the one with high GPA’s. <em>I am a bloody Exception.</em> 😐</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*9YjzSQ5rP92ST1CvsnIHRA.png" alt=""></p>
+<p>3. We have almost <strong>One Girl out of Four</strong>. Sounds cool eh ? Nah We will Die Single 😫</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*IHavJS7Vdp0m2slv0nCjwQ.png" alt=""></p>
+<p>4. Now , Blood Group v/s Students. Umm , I see , <strong>We have 35% O+ve peps</strong>. Cheers , I’m of those O+ve 😻</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*sDb6F99c7eAkJ1k5Y0D8Qw.png" alt="Blood Group vs Peps">
+Blood Group vs Peps</p>
+<p><em>Tighten your seatbelts , This is arguably best Insight !</em></p>
+<p>5. Girls were high on GPA list every damn time. No idea how but yeah , it’s happening 😝 . We fellow boys were more near 8.0ish and 8.7ish.</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*qdbR447FXKKF1g7H0wGEDg.png" alt="GPA Chart for Male v/s Female in 2018">
+GPA Chart for Male v/s Female in 2018</p>
+<p>Hope it was fun😆</p>
+<p>By <a href="https://medium.com/@Ayushverma8">Ayush Verma</a> on <a href="https://medium.com/p/8c2cf0dd099f">March 24, 2018</a>.</p>
+<p><a href="https://medium.com/@Ayushverma8/data-stats-srm-university-all-branches-8c2cf0dd099f">Canonical link</a></p>
+<p>Exported from <a href="https://medium.com">Medium</a> on July 6, 2019.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>What Exactly happens when you press the power button on PC ?</title>
+            <link>http://ayushverma8.github.io/posts/2017-10-12_what-exactly-happens-when-you-press-the-power-button-on-pc---7c781050b83e/</link>
+            <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+            
+            <guid>http://ayushverma8.github.io/posts/2017-10-12_what-exactly-happens-when-you-press-the-power-button-on-pc---7c781050b83e/</guid>
+            <description>&lt;p&gt;Operating system is defined as the low-level software that supports a computer’s basic functions,such as scheduling tasks and controlling…&lt;/p&gt;
+&lt;p&gt;Operating system is defined as the low-level software that supports a computer’s basic functions,such as scheduling tasks and controlling peripherals. OS holds down these 6 high level stages of a typical Linux boot process.&lt;/p&gt;
+&lt;p&gt;It has a few components that comes into play when you click Power Button&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/1*WTeFGORgOKJI24M4V1cpGQ.jpeg&#34; alt=&#34;Booting Process Diagram&#34;&gt;
+Booting Process Diagram&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Operating system is defined as the low-level software that supports a computer’s basic functions,such as scheduling tasks and controlling…</p>
+<p>Operating system is defined as the low-level software that supports a computer’s basic functions,such as scheduling tasks and controlling peripherals. OS holds down these 6 high level stages of a typical Linux boot process.</p>
+<p>It has a few components that comes into play when you click Power Button</p>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*WTeFGORgOKJI24M4V1cpGQ.jpeg" alt="Booting Process Diagram">
+Booting Process Diagram</p>
+<h3 id="1-bios">1. BIOS</h3>
+<ul>
+<li>BIOS stands for Basic Input/Output System</li>
+<li>Performs some system integrity checks over the HDD</li>
+<li>Searches, loads, and executes the boot loader program , mostly in MBR</li>
+<li>It looks for boot loader in floppy, cd-rom, or hard drive. We can press a key (typically F12 of F2, but it depends on your system) during the BIOS startup to change the boot sequence.</li>
+<li>Once the boot loader program is detected and loaded into the memory, BIOS gives the control to it.</li>
+<li>So, in simple terms BIOS loads and executes the MBR boot loader.</li>
+</ul>
+<h3 id="2-mbr">2. MBR</h3>
+<ul>
+<li>MBR stands for Master Boot Record.</li>
+<li>It is located in the 1st sector of the bootable disk. Typically /dev/hda, or /dev/sda. Why it’s sda and hda ? refer <a href="http://www.tldp.org/HOWTO/Partition-Mass-Storage-Definitions-Naming-HOWTO/x99.html">here</a> for more.</li>
+<li>MBR is less than 512 bytes in size. This has three components 1) primary boot loader info in 1st 446 bytes 2) partition table info in next 64 bytes 3) mbr validation check in last 2 bytes.</li>
+<li>It contains information about GRUB (or LILO in old systems).</li>
+<li>So, in simple terms MBR loads and executes the GRUB boot loader.</li>
+</ul>
+<h3 id="3-grub">3. GRUB</h3>
+<ul>
+<li>GRUB stands for Grand Unified Bootloader.</li>
+<li>If you have multiple kernel images installed on your system, you can choose which one to be executed, by default only the major one boots up .</li>
+<li>GRUB displays a splash screen, waits for few seconds, if you don’t enter anything, it loads the default kernel image as specified in the grub configuration file.</li>
+<li>GRUB has the knowledge of the filesystem (the older Linux loader LILO didn’t understand filesystem).</li>
+<li>Grub configuration file is /boot/grub/grub.conf (/etc/grub.conf is a link to this). The following is sample grub.conf of CentOS.</li>
+</ul>
+<h3 id="4-kernel">4. Kernel</h3>
+<ul>
+<li>Mounts the root file system as specified in the “root=” in grub.conf</li>
+<li>Kernel executes the /sbin/init program</li>
+<li>Since init was the 1st program to be executed by Linux Kernel, it has the process id (PID) of 1. Do a ‘ps -ef | grep init’ and check the pid. You can also use <a href="https://www.cyberciti.biz/faq/find-linux-what-running-on-port-80-command/">netstat</a></li>
+<li>initrd stands for Initial RAM Disk.</li>
+<li>initrd is used by kernel as temporary root file system until kernel is booted and the real root file system is mounted. It also contains necessary drivers compiled inside, which helps it to access the hard drive partitions, and other hardware.</li>
+</ul>
+<h3 id="5-init">5. Init</h3>
+<ul>
+<li>Looks at the /etc/inittab file to decide the Linux run level.</li>
+<li>Following are the available run levels</li>
+<li>0 — halt</li>
+<li>1 — Single user mode</li>
+<li>2 — Multiuser, without NFS</li>
+<li>3 — Full multiuser mode</li>
+<li>4 — unused</li>
+<li>5 — X11</li>
+<li>6 — reboot</li>
+<li>Init identifies the default initlevel from /etc/inittab and uses that to load all appropriate program.</li>
+<li>Execute ‘grep initdefault /etc/inittab’ on your system to identify the default run level</li>
+<li>If you want to get into trouble, you can set the default run level to 0 or 6. Since you know what 0 and 6 means, probably you might not do that.</li>
+<li>Typically you would set the default run level to either 3 or 5.</li>
+</ul>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*WTXHLtmaFxQBSIry5ehUQw.jpeg" alt="Configuration files present in the init folder">
+Configuration files present in the init folder</p>
+<h3 id="6-runlevelprograms">6. Runlevel programs</h3>
+<ul>
+<li>When the Linux system is booting up, you might see various services getting started. For example, it might say “starting sendmail …. OK”. Those are the runlevel programs, executed from the run level directory as defined by your run level.</li>
+<li>Depending on your default init level setting, the system will execute the programs from one of the following directories.</li>
+<li>Run level 0 — /etc/rc.d/rc0.d/</li>
+<li>Run level 1 — /etc/rc.d/rc1.d/</li>
+<li>Run level 2 — /etc/rc.d/rc2.d/</li>
+<li>Run level 3 — /etc/rc.d/rc3.d/</li>
+<li>Run level 4 — /etc/rc.d/rc4.d/</li>
+<li>Run level 5 — /etc/rc.d/rc5.d/</li>
+<li>Run level 6 — /etc/rc.d/rc6.d/</li>
+</ul>
+<p>By <a href="https://medium.com/@Ayushverma8">Ayush Verma</a> on <a href="https://medium.com/p/7c781050b83e">October 12, 2017</a>.</p>
+<p><a href="https://medium.com/@Ayushverma8/what-exactly-happens-when-you-press-the-power-button-on-pc-7c781050b83e">Canonical link</a></p>
+<p>Exported from <a href="https://medium.com">Medium</a> on July 6, 2019.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

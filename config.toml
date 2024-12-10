@@ -1,154 +1,75 @@
-baseURL = "http://iayush.xyz"
-title   = "Ayush Verma"
+baseURL      = "http://ayushverma8.github.io"
+title        = "Ayush Verma"
 languageCode = "en-us"
-name = "hello-friend-ng"
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
-
-paginate  = 10
-rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-
-googleAnalytics = "fdfdfdf"
- disqusShortname = "ayush"
-
-archetypeDir = "archetypes"
-contentDir   = "content"
-dataDir      = "data"
-layoutDir    = "layouts"
-publishDir   = "public"
-
-buildDrafts  = false
-buildFuture  = false
-buildExpired = false
-canonifyURLs = true
-
-enableRobotsTXT = true
-enableGitInfo   = false
-enableEmoji     = true
-enableMissingTranslationPlaceholders = false
-disableRSS     = false
-disableSitemap = false
-disable404     = false
-disableHugoGeneratorInject = false
-
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
-
-[author]
-  name = "Ayush Verma"
-
-[blackfriday]
-  hrefTargetBlank = true
-
-[taxonomies]
-  tag      = "tags"
-  category = "categories"
-  series   = "series"
+theme        = "hello-friend-ng"
+paginate     = 10
 
 [params]
+  # Personalization
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateformNumTime = "2006-01-02 15:04"
 
-  # Metadata mostly used in document's head
-  description = "Ayush Verma - Software Engineer & Video-game geek"
-  keywords = ""
-  images = [""]
+  # Homepage Enhancements
+  homeSubtitle = "Welcome to my corner of the internet."
+  homeDescription = "I'm Ayush Verma, a passionate software engineer, avid gamer, and tech enthusiast. Join me as I share insights into technology, projects, and stories that inspire me."
 
-  homeSubtitle = "I love all things computer science and maths."
+  # Featured Posts Section
+  showFeaturedPosts = true  # Enable featured posts on the homepage
+  featuredPostCount = 3     # Number of featured posts to display
 
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = ""
+  # About Section
+  aboutTitle = "About Me"
+  aboutDescription = "I'm a developer who loves building things for the web. When I'm not coding, you can find me exploring video games, learning new technologies, or tinkering with gadgets."
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  # Read More Behavior
   disableReadOtherPosts = false
 
-  # Sharing buttons
-  # There are a lot of buttons preconfigured. If you want to change them,
-  # generate the buttons here: https://sharingbuttons.io
-  # and add them into your own `layouts/partials/sharing-buttons.html`
+  # Social Media Enhancements
   enableSharingButtons = true
 
-  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = []
-  customJS  = []
+  # Branding
+  description = "Ayush Verma - My portfolio and blog"
+  keywords = "Ayush Verma, software engineer, blog, portfolio"
+  images = ["images/banner.jpg"]
 
-  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  justifyContent = false  # Set "text-align: justify" to .post-content.
-
-  # Default theme "light" or "dark"
-  defaultTheme = "dark"
-  themeColor = "#252627"
-
-  # Colors for favicons
-  [params.favicon.color]
-    mask = "#252627"
-    msapplication = "#252627"
-    theme = "#252627"
-
+  # Logo Settings
   [params.logo]
-    logoText     = "$ cd /myspace"
+    logoText     = "Ayush Verma"
     logoHomeLink = "/"
-    # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
-    # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "#67a2c9"
-    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
+    logoCursorAnimate  = "2s"
 
-  # Uncomment this if you want a portrait on your start page
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+  # Aesthetic Colors for Better Visuals
+  [params.colors]
+    primary = "#FF9800"  # Bright orange for highlights
+    secondary = "#37474F"  # Dark blue-grey for contrast
+    background = "#FFFFFF"  # Clean white background
+    text = "#212121"  # Dark text for readability
+    accent = "#FFC107"  # Subtle yellow for secondary accents
 
-  # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/ayushverma33"
+  # CV Section
+  cvTitle = "Curriculum Vitae"
+  cvFile = "/cv/Ayush-Verma-CV.pdf"  # Add your CV to `static/cv/` folder
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:ayushverma8@outlook.com"
-
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/Ayushverma8"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/ayushverma8/"
-
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://stackoverflow.com/users/6086266/ayush-verma"
-
-[languages]
-  [languages.en]
-    subtitle  = "Ayush Verma - Software Engineer & Video-game geek"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-  [languages.fr]
-    subtitle  = "Ayush Verma - Software Engineer & Video-game geek"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
+  series   = "series"
 
 [menu]
   [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+  [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
-  [[menu.main]]
-    identifier = "Hackathons"
-    name       = "Hackathons"
-    url        = "hackathons/"
+    url        = "/about"
 
-staticDir = ['static']
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "/cv/Ayush-Verma-CV.pdf"  # Direct link to your CV
+    weight     = 10
