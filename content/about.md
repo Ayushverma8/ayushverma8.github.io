@@ -27,6 +27,6 @@ As for food, I’m all about **Biryani** and **plain Vanilla**—though _not_ th
 
 I’m always up for a good conversation—whether it’s about tech, philosophy, or that time you tried debugging for 3 hours only to discover a missing semicolon. Got coffee? Got beer? Let’s talk.
 
-📧 Drop me a line: **ayushverma8 [AT] outlook [DOT] com**
+📧 Drop me a line: **hey [AT] ayushverma [DOT] ca**
 
 Thanks for stopping by. Stay curious, keep learning, and don’t forget to have some fun along the way! 🚀
