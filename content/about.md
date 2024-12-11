@@ -9,6 +9,8 @@ Since forever, I’ve been enchanted by computers—they’ve been my partners i
 
 ### What I Do
 
+![Scenario 1: Across columns](/me.jpg?width=200&height=200)
+
 I thrive on designing, building, and optimizing **smart, fault-tolerant systems** that are as strong and reliable as they are innovative. DevOps? Oh, we’re besties. Whether it’s **Bash** or **Python**, I wield these tools like a wizard casting spells.
 
 ### Beyond the Screen

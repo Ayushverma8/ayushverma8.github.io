@@ -71,7 +71,7 @@ paginate     = 10
 
   # CV Section
   cvTitle = "Curriculum Vitae"
-  cvFile = "/cv/Ayush-Verma-CV.pdf"  # Add your CV to `static/cv/` folder
+  cvFile = "/resources/CV_ayushverma.ca.pdf"   # Add your CV to `static/cv/` folder
 
 [taxonomies]
   category = "categories"
@@ -92,5 +92,5 @@ paginate     = 10
   [[menu.main]]
     identifier = "cv"
     name       = "CV"
-    url        = "/cv/Ayush-Verma-CV.pdf"  # Direct link to your CV
+    url        = "CV_ayushverma.ca.pdf" 
     weight     = 10
