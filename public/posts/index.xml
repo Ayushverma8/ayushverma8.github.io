@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Ayush Verma</title>
-        <link>http://ayushverma8.github.io/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>Recent content in Posts on Ayush Verma</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
-        <atom:link href="http://ayushverma8.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Automated benchmark tests over DigitalOcean and AWS LightSail</title>
-            <link>http://ayushverma8.github.io/posts/2018-03-23_automated-benchmark-tests-over-digitalocean-and-aws-lightsail-49532a7ad73d/</link>
+            <link>http://localhost:1313/posts/2018-03-23_automated-benchmark-tests-over-digitalocean-and-aws-lightsail-49532a7ad73d/</link>
             <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
             
-            <guid>http://ayushverma8.github.io/posts/2018-03-23_automated-benchmark-tests-over-digitalocean-and-aws-lightsail-49532a7ad73d/</guid>
+            <guid>http://localhost:1313/posts/2018-03-23_automated-benchmark-tests-over-digitalocean-and-aws-lightsail-49532a7ad73d/</guid>
             <description>&lt;p&gt;A comparison between DigitalOcean and AWS LightSail for Data Centers located in London.&lt;/p&gt;
 &lt;p&gt;A comparison between DigitalOcean and AWS LightSail for Data Centers located in London.&lt;/p&gt;
 &lt;h3 id=&#34;vps-benchmarks&#34;&gt;VPS benchmarks&lt;/h3&gt;
@@ -54,10 +54,10 @@ LightSail</p>
         
         <item>
             <title>Ultimate guide to use Cloud Services</title>
-            <link>http://ayushverma8.github.io/posts/2016-12-11_ultimate-guide-to-use-cloud-services-c78927b50a82/</link>
+            <link>http://localhost:1313/posts/2016-12-11_ultimate-guide-to-use-cloud-services-c78927b50a82/</link>
             <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
             
-            <guid>http://ayushverma8.github.io/posts/2016-12-11_ultimate-guide-to-use-cloud-services-c78927b50a82/</guid>
+            <guid>http://localhost:1313/posts/2016-12-11_ultimate-guide-to-use-cloud-services-c78927b50a82/</guid>
             <description>&lt;p&gt;This guide will show you how to create a virtual server and deploy an app to it. We are using Digitalocean for PaaS.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ultimate guide&lt;/strong&gt; to use Cloud Services&lt;/p&gt;
 &lt;p&gt;This guide will show you how to create a virtual server and deploy an app to it. We are using &lt;a href=&#34;https://www.digitalocean.com&#34;&gt;Digitalocean&lt;/a&gt; for PaaS.&lt;/p&gt;
@@ -249,10 +249,10 @@ pwd         # /var/www</p>
         
         <item>
             <title>Why Chatbots?</title>
-            <link>http://ayushverma8.github.io/posts/2017-11-13_why-chatbots--cb6c420b3147/</link>
+            <link>http://localhost:1313/posts/2017-11-13_why-chatbots--cb6c420b3147/</link>
             <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
             
-            <guid>http://ayushverma8.github.io/posts/2017-11-13_why-chatbots--cb6c420b3147/</guid>
+            <guid>http://localhost:1313/posts/2017-11-13_why-chatbots--cb6c420b3147/</guid>
             <description>&lt;p&gt;Chatbots have recently become quite popular. They are being used by businesses to provide proactive assistance to their customers. They…&lt;/p&gt;
 &lt;p&gt;Chatbots have recently become quite popular. They are being used by businesses to provide proactive assistance to their customers. They have grown and improved to capitalize on social media and messenger platforms. Most people haven’t openly identified the true potential of chatbots, so this article is designed to act as a guide to build chatbots on &lt;a href=&#34;http://www.engati.com&#34;&gt;Engati&lt;/a&gt; Platform.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>Chatbots have recently become quite popular. They are being used by businesses to provide proactive assistance to their customers. They…</p>
@@ -343,10 +343,10 @@ pwd         # /var/www</p>
         
         <item>
             <title>How about using Postman REST Client !</title>
-            <link>http://ayushverma8.github.io/posts/2018-02-22_how-about-using-postman-rest-client---c6db4642eccf/</link>
+            <link>http://localhost:1313/posts/2018-02-22_how-about-using-postman-rest-client---c6db4642eccf/</link>
             <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
             
-            <guid>http://ayushverma8.github.io/posts/2018-02-22_how-about-using-postman-rest-client---c6db4642eccf/</guid>
+            <guid>http://localhost:1313/posts/2018-02-22_how-about-using-postman-rest-client---c6db4642eccf/</guid>
             <description>&lt;p&gt;You can Even make a collection and see the health of API Calls. I think this will be the best way to monitor Status of our API.&lt;/p&gt;
 &lt;p&gt;How about using Postman REST Client !&lt;/p&gt;
 &lt;p&gt;You can Even make a collection and see the health of API Calls. I think this will be the best way to monitor Status of our API.&lt;/p&gt;
@@ -364,10 +364,10 @@ pwd         # /var/www</p>
         
         <item>
             <title>Apache Kafka | Introduction</title>
-            <link>http://ayushverma8.github.io/posts/2017-08-26_apache-kafka---introduction-b4e4d082cef6/</link>
+            <link>http://localhost:1313/posts/2017-08-26_apache-kafka---introduction-b4e4d082cef6/</link>
             <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
             
-            <guid>http://ayushverma8.github.io/posts/2017-08-26_apache-kafka---introduction-b4e4d082cef6/</guid>
+            <guid>http://localhost:1313/posts/2017-08-26_apache-kafka---introduction-b4e4d082cef6/</guid>
             <description>&lt;p&gt;Apache Kafka is a publish-subscribe messaging system.A messaging system let you send messages between processes, applications, and…&lt;/p&gt;
 &lt;p&gt;Apache Kafka is a publish-subscribe messaging system.A messaging system let you send messages between processes, applications, and servers.Broadly Speakng, Apache Kafka is a software where topics (A topic might be a category) can be defined and further processed . Applications may connect to this system and transfer a message onto the topic. A message can include any kind of information ,from any event on your Personal blog or can be a very simple text message that would trigger any other event.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>Apache Kafka is a publish-subscribe messaging system.A messaging system let you send messages between processes, applications, and…</p>
@@ -410,10 +410,10 @@ _iPinYou is the largest DSP in China which has its HQ in Beijing and offices in 
         
         <item>
             <title>How Does Instagram Stories Rank Viewers in a Particular Order?</title>
-            <link>http://ayushverma8.github.io/posts/2017-10-18_how-does-instagram-stories-rank-viewers-in-a-particular-order--7826b99b6215/</link>
+            <link>http://localhost:1313/posts/2017-10-18_how-does-instagram-stories-rank-viewers-in-a-particular-order--7826b99b6215/</link>
             <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
             
-            <guid>http://ayushverma8.github.io/posts/2017-10-18_how-does-instagram-stories-rank-viewers-in-a-particular-order--7826b99b6215/</guid>
+            <guid>http://localhost:1313/posts/2017-10-18_how-does-instagram-stories-rank-viewers-in-a-particular-order--7826b99b6215/</guid>
             <description>&lt;p&gt;So you must have used Snapchat and Instagram stories, but ever wondered why some viewers are always on top no matter what chronological…&lt;/p&gt;
 &lt;p&gt;So you must have used Snapchat and Instagram stories, but ever wondered why some viewers are always on top no matter what chronological order they saw the story?!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/1*bWuZWYWTMnJjPp1qqM3ziw.jpeg&#34; alt=&#34;Instagram Story Preview&#34;&gt;
@@ -445,10 +445,10 @@ Instagram Story Preview</p>
         
         <item>
             <title>Supercharged Unit Testing of Alexa skills with Postman and Newman</title>
-            <link>http://ayushverma8.github.io/posts/2018-03-18_supercharged-unit-testing-of-alexa-skills-with-postman-and-newman-53e6c48214e3/</link>
+            <link>http://localhost:1313/posts/2018-03-18_supercharged-unit-testing-of-alexa-skills-with-postman-and-newman-53e6c48214e3/</link>
             <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
             
-            <guid>http://ayushverma8.github.io/posts/2018-03-18_supercharged-unit-testing-of-alexa-skills-with-postman-and-newman-53e6c48214e3/</guid>
+            <guid>http://localhost:1313/posts/2018-03-18_supercharged-unit-testing-of-alexa-skills-with-postman-and-newman-53e6c48214e3/</guid>
             <description>&lt;p&gt;Testing Alexa Skill with Postman supersedes the basic testing service provided by the Amazon Developer Portal and Tools.&lt;/p&gt;
 &lt;p&gt;Lately Amazon has been working on improving the developer experience for its Alexa intelligent personal assistant. Part of this strategy Skill Management API,provides the ability to test multi-turn…&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/800/1*9cVPQ8azohAoaMvopR-ESw.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -533,10 +533,10 @@ Export by clicking here.</p>
         
         <item>
             <title>Data Stats SRM University — All Branches</title>
-            <link>http://ayushverma8.github.io/posts/2018-03-24_data-stats-srm-university---all-branches-8c2cf0dd099f/</link>
+            <link>http://localhost:1313/posts/2018-03-24_data-stats-srm-university---all-branches-8c2cf0dd099f/</link>
             <pubDate>Tue, 26 Sep 2017 00:00:00 +0000</pubDate>
             
-            <guid>http://ayushverma8.github.io/posts/2018-03-24_data-stats-srm-university---all-branches-8c2cf0dd099f/</guid>
+            <guid>http://localhost:1313/posts/2018-03-24_data-stats-srm-university---all-branches-8c2cf0dd099f/</guid>
             <description>&lt;p&gt;I wrote some crawlers for Facebook , LinkedIn , Resume Websites and crawled some relatable data for Batch 2014–2018 and Batch 2015–2019 …&lt;/p&gt;
 &lt;p&gt;I wrote some crawlers for Facebook , LinkedIn , Resume Websites and crawled some relatable data for &lt;strong&gt;Batch 2014–2018 and Batch 2015–2019&lt;/strong&gt; . Here’s some of the Analysis Insights. This are just for experimental purpose.&lt;/p&gt;
 &lt;ol&gt;
@@ -569,10 +569,10 @@ GPA Chart for Male v/s Female in 2018</p>
         
         <item>
             <title>What Exactly happens when you press the power button on PC ?</title>
-            <link>http://ayushverma8.github.io/posts/2017-10-12_what-exactly-happens-when-you-press-the-power-button-on-pc---7c781050b83e/</link>
+            <link>http://localhost:1313/posts/2017-10-12_what-exactly-happens-when-you-press-the-power-button-on-pc---7c781050b83e/</link>
             <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
             
-            <guid>http://ayushverma8.github.io/posts/2017-10-12_what-exactly-happens-when-you-press-the-power-button-on-pc---7c781050b83e/</guid>
+            <guid>http://localhost:1313/posts/2017-10-12_what-exactly-happens-when-you-press-the-power-button-on-pc---7c781050b83e/</guid>
             <description>&lt;p&gt;Operating system is defined as the low-level software that supports a computer’s basic functions,such as scheduling tasks and controlling…&lt;/p&gt;
 &lt;p&gt;Operating system is defined as the low-level software that supports a computer’s basic functions,such as scheduling tasks and controlling peripherals. OS holds down these 6 high level stages of a typical Linux boot process.&lt;/p&gt;
 &lt;p&gt;It has a few components that comes into play when you click Power Button&lt;/p&gt;
