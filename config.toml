@@ -90,7 +90,7 @@ paginate     = 10
     url        = "/about"
 
   [[menu.main]]
-    identifier = "cv"
-    name       = "CV"
+    identifier = "Resume"
+    name       = "Resume"
     url        = "CV_ayushverma.ca.pdf" 
     weight     = 10
