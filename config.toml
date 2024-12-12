@@ -55,6 +55,8 @@ paginate     = 10
   keywords = "Ayush Verma, software engineer, blog, portfolio"
   images = ["images/banner.jpg"]
 
+  [services.googleAnalytics]
+    ID = 'G-6MN4CY5TV9'
   # Logo Settings
   [params.logo]
     logoText     = "Ayush Verma"
